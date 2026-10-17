@@ -8,6 +8,10 @@ My mom says:
 helloworld("print")
 ```
 
+- [x] Cute
+- [x] Gay
+- [x] Ready to slay
+
 Lint to the GHI: [GHI](#ghi-1).
 
 ## Abc
